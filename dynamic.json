@@ -1,0 +1,38 @@
+
+{
+  "career":{
+    "info":"To work in an environment where can i utilize my skills and knowledge and i want to ignore my skills and knowledge "
+  },
+  "education":[
+    {
+      "degree":"B.tech(IT)",
+       "Institution":"vignan nirula",
+       "yop":"2020"
+    },
+    {
+      "degree":"intermediate",
+       "Institution":"sri chaitanya",
+       "yop":"2016"
+    },
+    {
+      "degree":"ssc",
+       "Institution": "srichaithnya",
+       "yop":"2014"
+    }
+  ],
+  "skills":[
+    {dy
+      "title":"platforms",
+      "content":"windows,linux"
+    },
+    {
+      "title":"programming languages",
+      "content":"c,c++,java,python,HTML,CSS<JS,JSON"
+    },
+    {
+      "title":"database",
+      "content":"sql,Mysql,PL/SQL"
+    }
+  ],
+  "languages":"Telugu,English,Hindi"
+}
